@@ -3,7 +3,7 @@
 
 Welcome to **Wanderlust**, a full-stack Airbnb clone built during the Sigma Web Development course by [Apna College](https://www.apnacollege.in/). This project simulates a vacation rental platform where users can explore listings, create accounts, and post their own properties for rent.
 
-![Wanderlust Banner](screenshots/banner.png)
+---
 
 ---
 
@@ -38,19 +38,30 @@ Welcome to **Wanderlust**, a full-stack Airbnb clone built during the Sigma Web 
 
 ### 🏠 Homepage
 
-![Homepage](screenshots/home.png)
+![Homepage](1.png)
 
 ---
 
 ### 📝 Listing Details Page
 
-![Show Listing](screenshots/show-listing.png)
+![Show Listing](2.png)
+
+---
+
+### 🧑‍💼 Signup Page
+
+![Login](3.png)
 
 ---
 
 ### 🧑‍💼 Login Page
 
-![Login](screenshots/login.png)
+![Login](4.png)
+
+---
+### Review Page
+
+![Review](5.png)
 
 ---
 
@@ -92,4 +103,4 @@ This project was created as part of the **Sigma Web Dev Course by Apna College**
 ## 📬 Contact
 
 **Mital Patil**  
-🔗 [GitHub Profile](https://github.com/17mital)
+
