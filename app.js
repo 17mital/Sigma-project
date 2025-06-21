@@ -87,7 +87,9 @@ app.use((req,res,next)=>{
 
 app.use("/listings",listingsRouter);
 app.use("/listings/:id/reviews",reviewsRouter);
-app.use("/",userRouter);
+app.get("/", (req, res) => {
+  res.render("home"); // You can create views/home.ejs
+});
 
 app.all("*" ,(req,res,next)=>{
     next(new ExpressError(404,"Page not found!"))
